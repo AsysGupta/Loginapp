@@ -1,5 +1,5 @@
-🔐 Secure PHP Login System
-📌 Project Overview
+ Secure PHP Login System
+ Project Overview
 
 This project is a basic PHP authentication system integrated with a MySQL database.
 It allows users to log in using credentials stored in the database and access a protected dashboard page after successful authentication.
@@ -20,7 +20,7 @@ CSS
 
 Git
 
-📂 Project Structure
+ Project Structure
 loginapp/
 │
 ├── config/
@@ -75,7 +75,7 @@ http://localhost/loginapp
 
 Login using stored credentials.
 
-🔐 Security Features
+ Security Features
 
 Password hashing using password_hash()
 
@@ -89,7 +89,7 @@ Session ID regeneration after login
 
 Sensitive configuration excluded using .gitignore
 
-📈 Future Improvements
+Future Improvements
 
 User registration feature
 
